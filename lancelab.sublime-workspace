@@ -1,0 +1,659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"order",
+				"order-block"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"pad",
+				"pad-bot-30"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ar",
+				"ar-l"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fot-",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"conten",
+				"content-img"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"repeat-",
+				"repeat-y"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"abo",
+				"about-item"
+			],
+			[
+				"me",
+				"media-item"
+			],
+			[
+				"he",
+				"header-phone"
+			],
+			[
+				"col-",
+				"col-md-offset-2"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"pad-",
+				"pad-bot-30"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"col-md-of",
+				"col-md-offset-1"
+			],
+			[
+				"col-md-o",
+				"col-md-offset-1"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"max",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/WebServers/home/lancelab"
+	],
+	"file_history":
+	[
+		"/C/WebServers/home/lancelab/package.json",
+		"/C/WebServers/home/natanay/www/js/script.js",
+		"/C/WebServers/home/applecentre/www/js/script.js",
+		"/C/WebServers/home/kutnor/www/tech.html",
+		"/C/WebServers/home/kutnor/www/product.html",
+		"/C/WebServers/home/kutnor/www/order.html",
+		"/C/WebServers/home/kutnor/www/main.html",
+		"/C/WebServers/home/kutnor/www/lk.html",
+		"/C/WebServers/home/kutnor/www/index.html",
+		"/C/WebServers/home/kutnor/www/catalog.html",
+		"/C/WebServers/home/kutnor/www/cart.html",
+		"/C/WebServers/home/kutnor/www/404.html",
+		"/C/WebServers/home/kutnor/www/js/script.js",
+		"/C/WebServers/home/kutnor/www/less/main.less",
+		"/C/WebServers/home/kutnor/www/less/media.less",
+		"/C/WebServers/home/kutnor/www/css/bootstrap.css",
+		"/C/WebServers/home/capital/www/js/script.js",
+		"/C/WebServers/home/laoli/www/js/script.js",
+		"/C/WebServers/home/applecentre/www/css/styles.css",
+		"/C/WebServers/home/applecentre/www/cart.html",
+		"/C/WebServers/home/capital/www/buy2.html",
+		"/C/WebServers/home/capital/www/less/main.less",
+		"/C/WebServers/home/deputat/www/js/script.js",
+		"/E/temp/lancelab/redkvadrat.net/2017-03-07/001/index.php",
+		"/C/Users/lancelab/AppData/Local/Temp/Rar$DRa0.386/fonts.css",
+		"/C/WebServers/home/kutnor/www/images/Прямоугольник, скругл. углы 4.svg",
+		"/C/WebServers/home/kutnor/www/images/telephone.svg",
+		"/C/WebServers/home/deputat/www/main.html",
+		"/C/WebServers/home/deputat/www/less/media.less",
+		"/C/WebServers/home/deputat/www/less/main.less",
+		"/C/WebServers/home/deputat/www/bio.html",
+		"/C/WebServers/home/deputat/www/news-page.html",
+		"/E/temp/lancelab/autocenter-slavia.ru/2017-02-28/002/index.php",
+		"/E/temp/lancelab/lancelab.ru/new/ico/parachute-.svg",
+		"/C/WebServers/home/deputat/www/index.html",
+		"/C/WebServers/home/deputat/www/feedback.html",
+		"/C/WebServers/home/deputat/www/news.html",
+		"/C/WebServers/home/deputat/www/contacts.html",
+		"/C/WebServers/home/deputat/www/education.html",
+		"/C/WebServers/home/deputat/www/respect.html",
+		"/C/WebServers/home/deputat/dist/images/menu.svg",
+		"/E/temp/lancelab/!!!dostupi.txt",
+		"/C/WebServers/home/deputat/gulpfile.js",
+		"/C/WebServers/home/deputat2/www/main.html",
+		"/E/temp/lancelab/deputat/frontend/deputat-47c42b17f04841800e22dc31583f68d678db3867/www/main.html",
+		"/C/WebServers/home/deputat/.gitignore",
+		"/C/WebServers/home/deputat/www/images/ll.svg",
+		"/C/WebServers/home/deputat/www/images/doc-ico.svg",
+		"/C/WebServers/home/capital/www/about.html",
+		"/C/WebServers/home/deputat/www/images/select.svg",
+		"/C/WebServers/home/capital/www/css/main.css",
+		"/C/WebServers/home/kkinvest/www/js/script.js",
+		"/E/temp/lancelab/deputat/ico/facebooka.svg",
+		"/C/WebServers/home/capital/www/index.html",
+		"/C/WebServers/home/deputat/www/libs/slick/src/slick.js",
+		"/C/WebServers/home/deputat/www/libs/slick/README.md",
+		"/C/WebServers/home/deputat/www/libs/slick/dist/slick.js",
+		"/C/WebServers/home/capital/www/js/slick/slick.min.js",
+		"/C/WebServers/home/deputat/www/libs/slick/dist/slick.min.js",
+		"/C/WebServers/home/deputat/www/libs/slick/.bower.json",
+		"/C/WebServers/home/deputat/www/js/jquery.mCustomScrollbar.concat.min.js",
+		"/C/WebServers/home/daidgest/www/js/script.js",
+		"/C/WebServers/home/daidgest/www/index.html",
+		"/C/WebServers/home/kkinvest/www/index.html",
+		"/C/WebServers/home/kkinvest/www/css/styles.css",
+		"/C/WebServers/home/deputat/www/images/alarm.svg",
+		"/C/WebServers/home/deputat/www/images/menu.svg",
+		"/C/WebServers/home/deputat/.bowerrc",
+		"/C/WebServers/home/deputat/www/libs/slick/bower.json",
+		"/C/WebServers/home/deputat/www/src/helpers/_stuff.jade",
+		"/C/WebServers/home/deputat/www/src/helpers/_params.jade",
+		"/C/WebServers/home/deputat/www/src/components/_head.jade",
+		"/C/WebServers/home/deputat/www/src/index.jade",
+		"/C/WebServers/home/deputat/www/src/helpers/_mixins.jade",
+		"/C/WebServers/home/deputat/www/src/helpers/_variables.jade",
+		"/C/WebServers/home/capital/www/main.html",
+		"/C/WebServers/home/capital/www/less/media.less",
+		"/C/WebServers/home/capital/gulpfile.js",
+		"/C/WebServers/home/deputat/www/libs/bootstrap/less/bootstrap.less",
+		"/E/temp/lancelab/olympic-plaza.com/2017-02-09/001/index.php",
+		"/E/temp/lancelab/olympic-plaza.com/2017-02-08/001/style.css",
+		"/E/temp/lancelab/olympic-plaza.com/2017-02-08/001/footer.php",
+		"/E/temp/lancelab/olympic-plaza.com/2017-02-08/001/bkp/style.css",
+		"/E/temp/lancelab/olympic-plaza.com/2017-02-08/001/script.js",
+		"/E/temp/lancelab/olympic-plaza.com/2017-02-08/001/script_2.js",
+		"/E/temp/lancelab/olympic-plaza.com/2017-02-08/001/inc_inner_bron.php",
+		"/E/temp/lancelab/olympic-plaza.com/2017-02-08/002/about_olymp/ob_otele/index.php",
+		"/E/temp/lancelab/olympic-plaza.com/2017-02-08/001/index.php",
+		"/E/temp/lancelab/system capital/chart/d3-plugins-master/graph/graph.js",
+		"/E/temp/lancelab/system capital/chart/d3-plugins-master/graph/index.html",
+		"/C/WebServers/home/capital/www/data.tsv",
+		"/C/WebServers/home/capital/www/js/d3.min.js",
+		"/E/temp/lancelab/system capital/chart/Chart.js-master/docs/00-Getting-Started.md",
+		"/E/temp/lancelab/system capital/chart/Chart.js-master/gulpfile.js",
+		"/E/temp/lancelab/system capital/chart/Chart.js-master/.npmignore",
+		"/E/temp/lancelab/system capital/chart/Chart.js-master/.gitignore",
+		"/C/WebServers/home/capital/www/images/logo.svg",
+		"/E/temp/lancelab/system capital/svg/Untitled-37.svg",
+		"/C/Users/lancelab/AppData/Local/Temp/Rar$DRa0.324/js/select_demo2.js",
+		"/C/Users/lancelab/AppData/Local/Temp/Rar$DRa0.460/easydropdown-master/index.html",
+		"/C/Users/lancelab/AppData/Local/Temp/Rar$DRa0.944/js/select.js",
+		"/C/WebServers/home/capital/dist/css/main.css",
+		"/C/WebServers/home/capital/dist/about.html",
+		"/C/WebServers/home/capital/dist/buy.html",
+		"/C/WebServers/home/capital/dist/buy2.html",
+		"/C/WebServers/home/capital/dist/index.html",
+		"/C/WebServers/home/capital/dist/page.html",
+		"/C/WebServers/home/applecentre/www/about.html",
+		"/C/WebServers/home/applecentre/www/accessories-0.html",
+		"/C/WebServers/home/applecentre/www/accessory.html",
+		"/C/WebServers/home/applecentre/www/accessories.html",
+		"/C/WebServers/home/applecentre/www/actions.html",
+		"/C/WebServers/home/applecentre/www/catalog-0.html",
+		"/C/WebServers/home/applecentre/www/catalog.html",
+		"/C/WebServers/home/applecentre/www/delivery.html",
+		"/C/WebServers/home/applecentre/www/contacts.html",
+		"/C/WebServers/home/applecentre/www/guarantee.html",
+		"/C/WebServers/home/applecentre/www/faq.html",
+		"/C/WebServers/home/applecentre/www/index.html",
+		"/C/WebServers/home/applecentre/www/product.html",
+		"/C/WebServers/home/applecentre/www/reviews.html",
+		"/C/WebServers/home/applecentre/www/repair.html",
+		"/C/WebServers/home/applecentre/www/support.html",
+		"/C/WebServers/home/applecentre/www/images/copyright_ll.svg",
+		"/C/Users/lancelab/Downloads/car(2).svg",
+		"/E/temp/lancelab/д/!!!dostupi(От Рустама).txt",
+		"/E/temp/lancelab/д/служебные.txt",
+		"/C/WebServers/home/capital/.bowerrc"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content-find",
+			"header-find",
+			"advantages-block",
+			"password-item__show",
+			"pat.",
+			"notfound-page",
+			".nav-tabs",
+			"e6e4d7",
+			"0deg",
+			".contacts-item",
+			"tvoy",
+			"dist",
+			"select-style",
+			"%'",
+			"#hotlog_counter",
+			"section.olympNavOrder .calendar1",
+			"section.olympNavOrder .calendar1, section.olympNavOrder .calendar2",
+			"navigationPage--div",
+			"section.navigationPage",
+			".calendar1, .calendar2",
+			"olympArrival",
+			".olympArrival",
+			"div.topIndexBlock div.stocks",
+			"div.topIndexBlock",
+			"src=\"/images/",
+			"/images/",
+			"src=\"/images/",
+			"/images/",
+			"<img src=\"/images/copyright_ll.svg\" />",
+			"<P class=\"text-right\"><a href=\"http://lancelab.ru/\"><img src=\"/images/copyright_ll.svg\" /></a></P>",
+			"<P class=\"text-right\"><a href=\"http://lancelab.ru/\"><img width=\"117\" height=\"20\" src=\"/images/copyright_ll.svg\" /></a></P>",
+			"<P class=\"text-right\"><a href=\"http://lancelab.ru/\"><img src=\"/images/copyright_ll.svg\" /></a></P>",
+			".price-devices li a",
+			"diag-trouble",
+			".leaflet-popup-content p",
+			"ŠKODA",
+			"bitrix24",
+			"#42",
+			"grey-block",
+			"<div class=\"col-xs-6 col-sm-4 col-md-2 select-product\" data-product=\"ipad-car\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"text-center product-item__image\"><img src=\"/images/acs/pad/76f4e2a7aa0a7fa5f54c4189b9074fd2.png\" border=\"0\"></div>\n\t\t\t\t\t\t\t\t\t\t\t<h3 class=\"text-center product-item__header\">Держатели</h3>\n\t\t\t\t\t\t\t\t\t\t</div>",
+			"<div class=\"col-xs-12 col-sm-4 col-md-2 pad-bot-30 select-product\"",
+			"<a href=\"/product.html\" class=\"input-button\">Купить</a>",
+			".product-item__image img",
+			"select-product",
+			"<h3 class=\"text-center product-item__header\">Apple ",
+			"seo62",
+			"#000000",
+			"#000",
+			"color:#000;",
+			"color: #000;",
+			"1@lancela",
+			"8989",
+			" <span class=\"hidden-xs glyphicon glyphicon-menu-right\"></span><span class=\"visible-xs glyphicon glyphicon-menu-down\"></span>",
+			"hedaer-menu",
+			"lancelab",
+			"<a href=\"/personal.html\" class=\"personal-list__btn  input-submit\">Записаться на прием</a>",
+			"red",
+			"function",
+			"ffffff",
+			"menu-block",
+			".left",
+			"1@la",
+			"ice",
+			"green",
+			"diag-ico-0",
+			".nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus",
+			"₽",
+			"ŠKODA",
+			"auto",
+			"autocenter",
+			"tana"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"images/",
+			"../images/",
+			"src=\"images/",
+			"../images/",
+			"images/",
+			"<P class=\"text-right\"><a href=\"http://lancelab.ru/\" target=\"_blank\"><img width=\"117\" height=\"20\" src=\"/images/copyright_ll.svg\" /></a></P>",
+			"<P class=\"text-right\"><a href=\"http://lancelab.ru/\"><img width=\"117\" height=\"20\" src=\"/images/copyright_ll.svg\" /></a></P>",
+			"&#352;KODA",
+			"<div class=\"col-xs-6 col-sm-4 col-md-2 select-product\"",
+			"<a href=\"/accessory.html\" class=\"input-button\">Купить</a>",
+			"<h3 class=\"text-center product-item__header\">",
+			" <span class=\"glyphicon glyphicon-menu-right\"></span>",
+			"<a href=\"#\" class=\"personal-list__btn  input-submit\" data-toggle=\"modal\" data-target=\"#appointment\">Записаться на прием</a>",
+			"&#8381;",
+			"&#352;KODA"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lancelab.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"E:\\temp\\lancelab\\system capital\\chart\\d3-plugins-master\\graph\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
