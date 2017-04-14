@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"col-s",
+				"col-sm-offset-2"
+			],
+			[
 				"text",
 				"text-decoration"
 			],
@@ -312,10 +316,17 @@
 	},
 	"expanded_folders":
 	[
-		"/C/WebServers/home/lancelab"
+		"/C/WebServers/home/lancelab",
+		"/C/WebServers/home/lancelab/www",
+		"/C/WebServers/home/lancelab/www/less"
 	],
 	"file_history":
 	[
+		"/C/WebServers/home/lancelab/www/index.html",
+		"/C/WebServers/home/lancelab/www/less/main.less",
+		"/C/WebServers/home/lancelab/www/main.html",
+		"/C/WebServers/home/lancelab/www/less/media.less",
+		"/C/WebServers/home/kutnor/www/index.html",
 		"/C/WebServers/home/lancelab/package.json",
 		"/C/WebServers/home/natanay/www/js/script.js",
 		"/C/WebServers/home/applecentre/www/js/script.js",
@@ -324,7 +335,6 @@
 		"/C/WebServers/home/kutnor/www/order.html",
 		"/C/WebServers/home/kutnor/www/main.html",
 		"/C/WebServers/home/kutnor/www/lk.html",
-		"/C/WebServers/home/kutnor/www/index.html",
 		"/C/WebServers/home/kutnor/www/catalog.html",
 		"/C/WebServers/home/kutnor/www/cart.html",
 		"/C/WebServers/home/kutnor/www/404.html",
@@ -439,11 +449,7 @@
 		"/C/WebServers/home/applecentre/www/reviews.html",
 		"/C/WebServers/home/applecentre/www/repair.html",
 		"/C/WebServers/home/applecentre/www/support.html",
-		"/C/WebServers/home/applecentre/www/images/copyright_ll.svg",
-		"/C/Users/lancelab/Downloads/car(2).svg",
-		"/E/temp/lancelab/д/!!!dostupi(От Рустама).txt",
-		"/E/temp/lancelab/д/служебные.txt",
-		"/C/WebServers/home/capital/.bowerrc"
+		"/C/WebServers/home/applecentre/www/images/copyright_ll.svg"
 	],
 	"find":
 	{

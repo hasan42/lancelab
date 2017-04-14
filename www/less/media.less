@@ -1,8 +1,81 @@
+@blue-color: #0099ff;
+@l-blue-color: #33adff;
+@l2-blue-color:#57bbff;
+@black-color: #474747;
+@grey-color: #646464;
+@white-color: #ffffff;
+
 @media screen and (max-width:1199px) {
 }
 @media screen and (max-width:991px) {
+	.portfolio-item {
+		width: 50%;
+	}
 }
 @media screen and (max-width:767px) {
+
+	.header-block {
+		background-color: @white-color;
+		padding: 10px 0;
+		color: @black-color;
+	}
+	.header-logo {
+		color: @black-color;
+		a {
+			color: @black-color;
+		}
+	}
+	.menu-opener {
+		&:hover, &:focus, &:active {
+			background-color: @black-color;
+		}
+	}
+	.menu-opener .menu-opener__bit-0, .menu-opener .menu-opener__bit-1, .menu-opener .menu-opener__bit-2 {
+		background-color: @black-color;
+		
+	}
+
+	.menu-sidebar {
+		width: 100%;
+	}
+	.menu-sidebar__open {
+		.menu-sidebar__info {
+			top: 0;
+			padding-top: 0;
+			margin-top: 100px;
+			h2:first-child {
+				margin-top: 0;
+			}
+		}
+	}
+
+	.go-work-pc {
+		h2 {
+			font-size: 22px;
+		}
+	}
+	.portfolio-item {
+		width: 100%;
+	}
+	.portfolio-item__detail {
+		width: 100%;
+		height: auto;
+	}
+
+	.achiv-block {
+		margin-top: 20px;
+	}
+
+	.footer-info {
+		text-align: left;
+		padding-top: 20px;
+	}
+
+	.footer-soc {
+		float: none;
+		padding-top: 20px;
+	}
+
 }
 @media screen and (max-width:640px) {
 }
