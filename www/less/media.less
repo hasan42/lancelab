@@ -25,14 +25,26 @@
 			color: @black-color;
 		}
 	}
+	.header-phone {
+		color: @black-color;
+		margin-top: 5px;
+		&::before {
+			display: none;
+		}
+		&::after {
+			display: none;
+		}
+	}
+
 	.menu-opener {
 		&:hover, &:focus, &:active {
-			background-color: @black-color;
+			.menu-opener__bit-0, .menu-opener__bit-1, .menu-opener__bit-2 {
+				background-color: @black-color;
+			}
 		}
 	}
 	.menu-opener .menu-opener__bit-0, .menu-opener .menu-opener__bit-1, .menu-opener .menu-opener__bit-2 {
 		background-color: @black-color;
-		
 	}
 
 	.menu-sidebar {

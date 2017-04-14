@@ -15,9 +15,25 @@
   .header-logo a {
     color: #474747;
   }
-  .menu-opener:hover,
-  .menu-opener:focus,
-  .menu-opener:active {
+  .header-phone {
+    color: #474747;
+    margin-top: 5px;
+  }
+  .header-phone::before {
+    display: none;
+  }
+  .header-phone::after {
+    display: none;
+  }
+  .menu-opener:hover .menu-opener__bit-0,
+  .menu-opener:focus .menu-opener__bit-0,
+  .menu-opener:active .menu-opener__bit-0,
+  .menu-opener:hover .menu-opener__bit-1,
+  .menu-opener:focus .menu-opener__bit-1,
+  .menu-opener:active .menu-opener__bit-1,
+  .menu-opener:hover .menu-opener__bit-2,
+  .menu-opener:focus .menu-opener__bit-2,
+  .menu-opener:active .menu-opener__bit-2 {
     background-color: #474747;
   }
   .menu-opener .menu-opener__bit-0,
